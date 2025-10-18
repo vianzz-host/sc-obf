@@ -1,12 +1,14 @@
 {
   "name": "encrypt-bot",
-  "version": "0.0",
-  "description": "Raja Obf Both",
+  "version": "1.0.0",
+  "description": "Raja Obf Bot dengan Auto Backup",
   "main": "bot.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node bot.js",
+    "dev": "node bot.js",
+    "test": "echo \"No tests specified\" && exit 0"
   },
-  "author": "RajaObfBoth",
+  "author": "RajaObfBot",
   "license": "MIT",
   "dependencies": {
     "axios": "^1.8.2",
@@ -14,10 +16,16 @@
     "js-confuser": "latest",
     "ssh2": "^1.16.0",
     "telegraf": "^4.16.3",
-    "webcrack": "^2.15.0",
-    "archiver": "^5.3.1"
+    "webcrack": "^2.15.0"
   },
   "engines": {
     "node": ">=14.0.0"
-  }
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "obfuscation",
+    "javascript",
+    "encryption"
+  ]
 }
