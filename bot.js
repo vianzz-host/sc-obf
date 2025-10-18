@@ -917,10 +917,9 @@ Pilih Menu Di Bawah Ini
 /encsiu - sɪᴜ ᴄᴀʟᴄʀɪᴋ 
 /japan - ᴊᴀᴘᴀɴ ᴏʙғᴜsᴄᴀᴛᴇ
 /deobfuscate - ᴅᴇᴄʀʏᴘᴛ ғɪʟᴇ
-/backup - 💾 Backup data (Admin)
 
 Owner : t.me/yanzzmodesolo 
-Channel : diban orang cokk😭`,
+Channel : t.me/testivianzzhost`,
         parse_mode: "Markdown",
       });
     } else {
@@ -961,10 +960,9 @@ Pilih Menu Di Bawah Ini
 /encsiu - sɪᴜ ᴄᴀʟᴄʀɪᴋ 
 /japan - ᴊᴀᴘᴀɴ ᴏʙғᴜsᴄᴀᴛᴇ
 /deobfuscate - ᴅᴇᴄʀʏᴘᴛ ғɪʟᴇ
-/backup - 💾 Backup data (Admin)
 
 Owner : t.me/yanzzmodesolo 
-Channel : diban orang cokk😭`,
+Channel : t.me/testivianzzhost`,
       parse_mode: "Markdown",
       reply_markup: {},
     });
