@@ -916,7 +916,13 @@ Pilih Menu Di Bawah Ini
 /encarab - ᴀʀᴀʙ ᴏʙғᴜsᴄᴀᴛᴇ
 /encsiu - sɪᴜ ᴄᴀʟᴄʀɪᴋ 
 /japan - ᴊᴀᴘᴀɴ ᴏʙғᴜsᴄᴀᴛᴇ
+/enc - ʙᴀʀɪꜱᴀɴ ᴏʙꜰᴜꜱᴄᴀᴛᴇ
+/quantum - Qᴜᴀɴᴛᴜᴍ ᴏʙꜰᴜꜱᴄᴀᴛᴇ
+/var - ᴠᴀʀ ᴏʙꜰᴜꜱᴄᴀᴛᴇ
+/nebula - ɴᴇʙᴜʟᴀ ᴏʙꜰᴜꜱᴄᴀᴛᴇ
 /deobfuscate - ᴅᴇᴄʀʏᴘᴛ ғɪʟᴇ
+/cekid - ᴄᴇᴋɪᴅ ᴛᴇʟᴇɢʀᴀᴍ
+/gethtml - ɢᴇᴛ ʜᴛᴍʟ ᴅᴀʀɪ ʟɪɴᴋ
 
 Owner : t.me/yanzzmodesolo 
 Channel : t.me/testivianzzhost`,
@@ -959,7 +965,13 @@ Pilih Menu Di Bawah Ini
 /encarab - ᴀʀᴀʙ ᴏʙғᴜsᴄᴀᴛᴇ
 /encsiu - sɪᴜ ᴄᴀʟᴄʀɪᴋ 
 /japan - ᴊᴀᴘᴀɴ ᴏʙғᴜsᴄᴀᴛᴇ
+/enc - ʙᴀʀɪꜱᴀɴ ᴏʙꜰᴜꜱᴄᴀᴛᴇ
+/quantum - Qᴜᴀɴᴛᴜᴍ ᴏʙꜰᴜꜱᴄᴀᴛᴇ
+/var - ᴠᴀʀ ᴏʙꜰᴜꜱᴄᴀᴛᴇ
+/nebula - ɴᴇʙᴜʟᴀ ᴏʙꜰᴜꜱᴄᴀᴛᴇ
 /deobfuscate - ᴅᴇᴄʀʏᴘᴛ ғɪʟᴇ
+/cekid - ᴄᴇᴋɪᴅ ᴛᴇʟᴇɢʀᴀᴍ
+/gethtml - ɢᴇᴛ ʜᴛᴍʟ ᴅᴀʀɪ ʟɪɴᴋ
 
 Owner : t.me/yanzzmodesolo 
 Channel : t.me/testivianzzhost`,
