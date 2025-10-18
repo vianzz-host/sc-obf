@@ -1,0 +1,23 @@
+{
+  "name": "encrypt-bot",
+  "version": "0.0",
+  "description": "Raja Obf Both",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "RajaObfBoth",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.8.2",
+    "fs-extra": "^11.2.0",
+    "js-confuser": "latest",
+    "ssh2": "^1.16.0",
+    "telegraf": "^4.16.3",
+    "webcrack": "^2.15.0",
+    "archiver": "^5.3.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
